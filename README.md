@@ -1,7 +1,7 @@
 #Hello World Music V2
 
 ### Project 1 Version 2
-![Ex-Factor](Cimages/exfactor.png?raw=true "Ex-Factor")
+![Ex-Factor](images/exfactor.png?raw=true "Ex-Factor")
 
 I'm basically always listening to music (although podcasts are taking over), so I wanted to play around with sounds in my Hello World sketch. The main idea of this sketch is to let you visualize the song being played by turning the amplitude of the song into visible and recorded movement and color; when the song is louder, the shape grows and distorts slightly, and if it's loud enough the shape will change color.
 
