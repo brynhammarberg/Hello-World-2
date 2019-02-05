@@ -18,7 +18,7 @@ function preload(){
 }
 
 function setup() {
-    createCanvas(1260, 650);
+    createCanvas(windowWidth, windowHeight);
     background (51, 0, 102);
     analyzer = new p5.Amplitude();
 
